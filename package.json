@@ -10,7 +10,8 @@
   "license": "Apache-2.0",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "mongodb": "^4.5"
+    "mongodb": "^4.5",
+    "node-static": "^0.7.11"
   },
   "prettier": {
     "semi": true
