@@ -1,21 +1,13 @@
 {
-  "name": "mongodb-driver-quick-start",
+  "name": "maps-and-mongo",
   "version": "1.0.0",
   "description": "Maps and Mongo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mongodb-university/js-starter.git"
+    "dev": "node index.js"
   },
   "author": "Developer Education Team",
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/mongodb-university/js-starter/issues"
-  },
-  "homepage": "https://github.com/mongodb-university/js-starter#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "mongodb": "^4.5"
