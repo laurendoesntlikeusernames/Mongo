@@ -1,7 +1,7 @@
 {
   "name": "mongodb-driver-quick-start",
   "version": "1.0.0",
-  "description": "Starter project for the MongoDB Node.js Driver Quick Start.",
+  "description": "Maps and Mongo",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
